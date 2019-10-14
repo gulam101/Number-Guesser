@@ -1,0 +1,14 @@
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.exe.config
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.exe
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.pdb
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.csprojAssemblyReference.cache
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.exe
+C:\Users\Gulam\Documents\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.pdb
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.exe.config
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.exe
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\bin\Debug\NumberGuesserV2.pdb
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.csprojAssemblyReference.cache
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.exe
+C:\Users\Gulam\Documents\Projects\C# projects\NumberGuesser\NumberGuesserV2\NumberGuesserV2\obj\Debug\NumberGuesserV2.pdb
