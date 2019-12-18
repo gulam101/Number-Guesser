@@ -11,7 +11,7 @@ namespace NumberGuesser
         static void Main(string[] args)
         {
             //Declareing veriables
-            string appVersion = "1.0.2";
+            string appVersion = "1.0.3";
             string appAuthor = "Gulam";
             string dateModified = "This App was updated on 02/01/19";
             //string input = "";
