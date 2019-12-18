@@ -20,8 +20,9 @@ Instructions: The user has to guess a number between 1 - 10. If they guess the c
 
 What I learnt: When I created this game, I learnt how to store data within variables and call them within the application. I also learnt how to use the WHILE IF statement. I also learnt how to add comments using the '//' symbol.
 
-This was my first project so I enhanced my knowledge of Visual Studio and C#.
+This was my first project, so I enhanced my knowledge of Visual Studio and C#.
 
-Constraints: While creating this project I ran into a few problems of the application not loading up. This was because the application wouldn't close down properly when finding debugging on Visual Studio. This has since been fixed in an update of VS Studio.
+Constraints: While creating this project I ran into a few problems of the application not loading up. This was because the application wouldn't close properly when finding debugging on Visual Studio. This has since been fixed in an update of VS Studio.
+
 
 Improvements: I could improve the application by changing the colour so when the user types in the wrong number they will get a red highlight over the text and when they get the correct number it will give them a green highlight over the text instead of red. Another improvement is that the application exits when the game is completed, I could add check that would allow the user to restart the game instead of reloading the application using VS Studio. Finally, another idea is that I could give a random number at the start rather than giving it a fixed number.
