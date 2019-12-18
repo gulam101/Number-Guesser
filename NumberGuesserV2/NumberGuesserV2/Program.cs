@@ -5,16 +5,15 @@ using System.Security;
 namespace NumberGuesser
 {
     //Main class
-    class Program //Can store veriables and functions
+    class Program
     {
         //Entry Point Method
         static void Main(string[] args)
         {
             //Declareing veriables
-            string appVersion = "1.0.3";
+            string appVersion = "1.0.2";
             string appAuthor = "Gulam";
             string dateModified = "This App was updated on 02/01/19";
-            //string input = "";
 
             //Changes text colour
             Console.ForegroundColor = ConsoleColor.Red;
