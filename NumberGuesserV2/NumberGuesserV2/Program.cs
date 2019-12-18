@@ -13,7 +13,7 @@ namespace NumberGuesser
             //Declareing veriables
             string appVersion = "1.0.2";
             string appAuthor = "Gulam";
-            string dateModified = "This App was updated on 02/01/19";
+            string dateModified = "This App was updated on 18/12/19";
 
             //Changes text colour
             Console.ForegroundColor = ConsoleColor.Red;
