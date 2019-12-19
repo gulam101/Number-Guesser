@@ -1,13 +1,20 @@
 # Number-Guesser
-Number Guesser C#
 
-Description: An early project I did for college. This allowed me to play around with everything I learned using C#.
+## Number Guesser C#
+
+### Description: 
+
+An early project I did for college. This allowed me to play around with everything I learned using C#.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71078906-2c3ece00-2182-11ea-937c-2c092a0481ca.PNG)
 
-Goal: The goal for this project was to create a project with the knowledge I acquired when I was taught the basics to C#. 
+### Goal:
 
-Instructions: The user has to guess a number between 1 - 10. If they guess the correct number, they win the game. If not, they must keep guessing until they have won the game.
+The goal for this project was to create a project with the knowledge I acquired when I was taught the basics to C#. 
+
+### Instructions:
+
+The user has to guess a number between 1 - 10. If they guess the correct number, they win the game. If not, they must keep guessing until they have won the game.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71078906-2c3ece00-2182-11ea-937c-2c092a0481ca.PNG)
 
@@ -18,11 +25,17 @@ Instructions: The user has to guess a number between 1 - 10. If they guess the c
 ![IMG004](https://user-images.githubusercontent.com/45819118/71078913-2d6ffb00-2182-11ea-8c56-89362206b5f1.PNG)
 
 
-What I learnt: When I created this game, I learnt how to store data within variables and call them within the application. I also learnt how to use the WHILE IF statement. I also learnt how to add comments using the '//' symbol.
+### What I learnt:
+
+When I created this game, I learnt how to store data within variables and call them within the application. I also learnt how to use the WHILE IF statement. I also learnt how to add comments using the '//' symbol.
 
 This was my first project, so I enhanced my knowledge of Visual Studio and C#.
 
-Constraints: While creating this project I ran into a few problems of the application not loading up. This was because the application wouldn't close properly when finding debugging on Visual Studio. This has since been fixed in an update of VS Studio.
+### Constraints:
+
+While creating this project I ran into a few problems of the application not loading up. This was because the application wouldn't close properly when finding debugging on Visual Studio. This has since been fixed in an update of VS Studio.
 
 
-Improvements: I could improve the application by changing the colour so when the user types in the wrong number they will get a red highlight over the text and when they get the correct number it will give them a green highlight over the text instead of red. Another improvement is that the application exits when the game is completed, I could add check that would allow the user to restart the game instead of reloading the application using VS Studio. Finally, another idea is that I could give a random number at the start rather than giving it a fixed number.
+### Improvements:
+
+I could improve the application by changing the colour so when the user types in the wrong number they will get a red highlight over the text and when they get the correct number it will give them a green highlight over the text instead of red. Another improvement is that the application exits when the game is completed, I could add check that would allow the user to restart the game instead of reloading the application using VS Studio. Finally, another idea is that I could give a random number at the start rather than giving it a fixed number.
