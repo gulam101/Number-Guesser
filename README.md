@@ -26,10 +26,11 @@ The user has to guess a number between 1 - 10. If they guess the correct number,
 
 
 ### What I learnt:
-
-When I created this game, I learnt how to store data within variables and call them within the application. I also learnt how to use the WHILE IF statement. I also learnt how to add comments using the '//' symbol.
-
-This was my first project, so I enhanced my knowledge of Visual Studio and C#.
+- Enhanced knowlegde on console app
+- Increased knowledge on data variables
+- Learnt WHILE IF statement
+- How to add comments in C#
+- Further increased knowledge in Visual Studio 2017
 
 ### Constraints:
 
